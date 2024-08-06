@@ -1,5 +1,6 @@
 # Excyclopedia 
    \-> Sebuah Ensiklopedia yang dibuat berdasarkan hal yang telah kami pelajari di Excellent Computer Salatiga.
+   [!Syafa Numpaki Adit](assets/readme-main.jpg)
 ## Tim Magang Generasi 2024 :
 1. Aditiya Kurniawan
 2. Ananda Aditia Putra Pratama
